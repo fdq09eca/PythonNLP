@@ -25,8 +25,8 @@ else:
 searcher = Searcher(df = df, model = 'multi-qa-MiniLM-L6-cos-v1')
 
 app = FastAPI(
-    title="MetaSearch API",
-    description="currently only search fo CEDA metadata",
+    title="NDSH MetaSearch API",
+    description="currently only support CEDA metadata",
     version="0.0.1",
     terms_of_service="http://example.com/terms/",
     contact={
