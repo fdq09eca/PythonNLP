@@ -1,3 +1,3 @@
 # NDSH-MetaSearch
 
-A simple tool to perform semantic search on the CEDA metadata.
+A simple tool performs semantic search on the CEDA metadata.
